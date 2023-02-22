@@ -1,5 +1,5 @@
 {
-	"name": "sql.js",
+	"name": "@gyzerok/sql.js",
 	"version": "1.8.0",
 	"description": "SQLite library with support for opening and writing databases, prepared statements, and more. This SQLite library is in pure javascript (compiled with emscripten).",
 	"keywords": [
@@ -32,7 +32,7 @@
 		"test-wasm-debug": "node --unhandled-rejections=strict test/all.js wasm-debug",
 		"doc": "jsdoc -c .jsdoc.config.json"
 	},
-	"homepage": "http://github.com/sql-js/sql.js",
+	"homepage": "http://github.com/gyzerok/sql.js",
 	"repository": {
 		"type": "git",
 		"url": "http://github.com/sql-js/sql.js.git"
